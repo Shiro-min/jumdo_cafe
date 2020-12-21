@@ -1,0 +1,12 @@
+@charset "utf-8";
+
+body {
+font-family: 'Noto Sans JP', "Hiragino Kaku Gothic ProN", Meiryo, sans-serif;
+}
+
+/* トップページ */
+.main_img{
+    background-image: url(../img/counter_L.jpg);
+    height: 800px;
+    width: auto;
+}
